@@ -72,6 +72,8 @@ TestResult.xml
 **/[Ee]xternals.meta
 **/Assets/Assemblies/
 **/Assets/Assemblies.meta
+**/Assets/TextMesh Pro/
+**/Assets/TextMesh Pro.meta
 Logs/
 UserSettings/
 [Bb]in.meta

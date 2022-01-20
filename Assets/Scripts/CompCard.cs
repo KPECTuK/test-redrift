@@ -165,8 +165,7 @@ public class StateCounter
 
 	public void TargetSelect()
 	{
-		_target = UnityEngine.Random.Range(0, 12);
-		// $"target at {_comp.name} set to: {_target}".LogDebug();
+		_target = UnityEngine.Random.Range(3, 12);
 	}
 
 	public void ViewUpdate()
